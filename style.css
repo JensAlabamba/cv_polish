@@ -1,220 +1,218 @@
 body {
-    font-family: "Montserrat", sans-serif;
-    background: #f5f7fa;
+  font-family: "Montserrat", sans-serif;
+  background: #f5f7fa;
 }
 
 .wrapper {
-    display: flex;
-    flex-direction: row-reverse;
-    width: 1200px;
-    justify-content: center;
-    margin: 0 auto;
-    background: #fff;
-    box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  justify-content: center;
+  margin: 0 auto;
+  background: #fff;
+  box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
 }
 
 main {
-    padding: 67px 88px 102px 88px;
+  padding: 67px 88px 102px 88px;
 }
 
 .colorize {
-    color: #fb6d3a;
+  color: #fb6d3a;
 }
 
 aside {
-    background: #1e2939;
-    width: 370px;
+  background: #1e2939;
+  width: 370px;
 }
 
 .contact_block {
-    color: #fff;
-    margin-top: 51px;
-    margin-left: 40px;
+  color: #fff;
+  margin-top: 51px;
+  margin-left: 40px;
 }
 
 .image {
-    margin-top: 25px;
+  margin-top: 25px;
 }
 
 .contact_links {
-    color: #fff;
-    opacity: 0.5;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    text-decoration-line: underline;
+  color: #fff;
+  opacity: 0.5;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration-line: underline;
 }
 
 .contact_letters {
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 24px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
 }
 
 .tech_li {
-    color: #fff;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
+  color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
 }
 
 .tech_block {
-    margin-top: 47px;
-    margin-left: 40px;
+  margin-top: 47px;
+  margin-left: 40px;
 }
 
 .ss_block {
-    margin-top: 44px;
-    margin-left: 40px;
+  margin-top: 44px;
+  margin-left: 40px;
 }
 
 .side_header {
-    color: #f5f7fa;
-    font-size: 22px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
+  color: #f5f7fa;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .colorize_ul {
-    color: #fb6d3a;
-    margin-left: 0;
-    padding-left: 0;
-    list-style-position: inside;
+  color: #fb6d3a;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
 }
 
 .tech_li {
-    color: #fff;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
+  color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
 }
 
 .main_description {
-    width: 400px;
-    color: #595959;
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    margin-bottom: 40px;
+  width: 400px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 40px;
 }
 
 .job_description {
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 h1 {
-    font-size: 45px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .projects {
-    width: 400px;
-    margin-bottom: 51px;
+  width: 400px;
+  margin-bottom: 51px;
 }
 
 .pro_list {
-    color: #000;
-    font-size: 14px;
-    font-weight: 700;
-    line-height: 24px;
-    margin-left: 0;
-    padding-left: 0;
-    list-style-position: inside;
-    margin-top: 8px;
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+  margin-top: 8px;
 }
 
 .pro_list_item {
-    color: #595959;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px;
-    text-decoration-line: none;
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration-line: none;
 }
 
 .pro_li {
-    color: #595959;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px;
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
 }
 
 .header_main {
-    color: #000;
-    font-size: 22px;
-    font-weight: 700;
-    line-height: normal;
-    margin-bottom: 12px;
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 12px;
 }
 
 .job_name {
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .job_date {
-    color: #a8a8a8;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
+  color: #a8a8a8;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 .time_connector {
-    color: #000;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
+  color: #000;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 .we_list {
-    color: #595959;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px;
-    margin-left: 0;
-    padding-left: 0;
-    list-style-position: inside;
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
 }
 
 .education {
-    margin-top: 43px;
+  margin-top: 43px;
 }
 
 .university {
-    color: #fb6d3a;
-    font-size: 16px;
-    font-weight: 700;
-    line-height: normal;
-    margin-bottom: 12px;
-    margin-top: 12px;
+  color: #fb6d3a;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 12px;
+  margin-top: 12px;
 }
 
 .course {
-    color: #000;
-    font-size: 14px;
-    font-weight: 700;
-    line-height: normal;
-    margin-bottom: 12px;
-    margin-top: 12px;
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 12px;
+  margin-top: 12px;
 }
 
 .clause {
-    font-size: 10px;
-    margin-top: 100px;
-    margin-bottom: 0;
+  font-size: 10px;
+  margin-top: 100px;
+  margin-bottom: 0;
 }
